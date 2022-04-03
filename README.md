@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Angular, JavaScript,Typescript, Html e Css..
 - 👩🏽‍💻 Pronouns: ela/she
 - 📫 Contacte-me no email: vivianesluzz@gmail.com
-- ⚡ Fun fact: ...
 -->
 
 
