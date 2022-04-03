@@ -1,8 +1,9 @@
-### Olá! Eu sou a Viviane Luz ✋🏾
+### ✋🏾 Olá! Eu sou a Viviane Luz 
 - 🔭 I’m currently working on Movida as fornt-end Developer.
 - 🌱 I’m currently learning Angular, JavaScript,Typescript, Html e Css..
 - 👩🏽‍💻 Pronouns: ela/she
 - 📫 Contacte-me no email: vivianesluzz@gmail.com
+
 
 
 <div align="center">
