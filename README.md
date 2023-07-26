@@ -1,5 +1,4 @@
 ### ✋🏾 Olá! Eu sou Viviane Luz. Atualmente moro em São Paulo, SP-Brasil.
-Me apaixonei por tecnologia e fiz a migração de carreira, tive facilidade em aprender rápido nesta área. Fiz um bootcamp de desenvolvimento web full stack na Labenu e atualmente estou cursando Análise e desenvolvimento de sistemas no Mackenzie. 
 - 🔭 I’m currently working on Movida as front-end Developer.
 - 🌱 I’m currently learning Angular, JavaScript, Typescript.
 - 👩🏽‍💻 Pronouns: ela/she
