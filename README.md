@@ -1,7 +1,7 @@
 ### ✋🏾 Olá! Eu sou Viviane Luz, Desenvolvedora Front-end.
   Moro em São Paulo, SP-Brasil.
 - 🔭 I’m currently working on Movida as front-end Developer.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently javascript immersion in Reprograma.
 - 👩🏽‍💻 Pronouns: ela/she
 - 📫 Contacte-me no email: vivianesluzz@gmail.com
 
