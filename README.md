@@ -1,6 +1,6 @@
-### ✋🏾 Olá! Eu sou Viviane Luz, Desenvolvedora Front-end.
+### ✋🏾 Olá! Eu sou Viviane Luz, desenvolvedora Front-end.
   Moro em São Paulo, SP-Brasil.
-- 🌱 I’m currently javascript immersion in Reprograma.
+- 🌱 I’m currently javascript immersion in Reprograma e student Análise e Desenvolvimento na Mackenzie.
 - 👩🏽‍💻 Pronouns: ela/she
 - 📫 Contacte-me no email: vivianesluzz@gmail.com
 
