@@ -1,6 +1,6 @@
 ### ✋🏾 Olá! Eu sou Viviane Luz, desenvolvedora Front-end.
   📍 São Paulo, SP-Brasil.
-- 🌱 Estudando no momento Tailwind css e estudante Análise e desenvolvimento na Mackenzie.
+- 🌱 Estudando no momento Tailwind css e cursando Análise e desenvolvimento na Mackenzie.
 - 👩🏽‍💻 Pronouns: ela/she
 - 📫 Contacte-me no email: vivianesluzz@gmail.com
 
